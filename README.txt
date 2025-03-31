@@ -1,30 +1,13 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Engineering LAUcated Fellowship Website
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I’m James Wanliss, a Professor of General Engineering in the LAUCATED, The Laboratory at Anderson Univeristy for Complex and Turbulent Engineering Dynamics.
 
-(* = not included)
+My previous roles include Professor of Physics at Presbyterian College, Associate Professor of Engineering Physics at Embry-Riddle Aeronautical University, Visiting Associate Professor at Nagoya Univeristy and Kyung-Hee University. My current research interests include:
 
-AJ
-aj@lkn.io | @ajlkn
+Probabilistic Machine Learning Fundamentals (including generative models and uncertainty-aware approaches) Space Weather Forecasting (especially for weather, earth systems, and climate prediction) Spatio-temporal Modelling (especially using a fusion of large-scale deep learning and probabilistic modelling for scientific applications) Below you’ll find information about my group.
 
+You can stay up to date with my most recent research on Google Scholar or by following me on LinkedIn.
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Directions to my office are here.
